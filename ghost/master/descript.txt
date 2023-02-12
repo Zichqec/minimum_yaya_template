@@ -1,0 +1,15 @@
+charset,UTF-8
+
+name,Minumum YAYA Template
+type,ghost
+
+shiori,yaya.dll
+
+craftman,
+craftmanw,
+craftmanurl,
+
+sakura.name,
+kero.name,
+
+sstp.allowunspecifiedsend,0
