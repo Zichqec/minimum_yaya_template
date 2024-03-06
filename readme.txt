@@ -1,10 +1,11 @@
 This template contains the bare basics for making a ghost with YAYA, and little else.
 
-This is version v1.0.2, using YAYATc571-5.
+This is version v1.0.2, using YAYATc571-8.
 You can check for new versions of YAYA here: https://github.com/ponapalt/yaya-shiori
 And you can check for new versions of the base files here: https://github.com/ponapalt/yaya-dic
+NOTE: Since YAYA as SHIORI now has AUTO_DATA_CONVERT off by default, this template does too. If you're not sure what that means, read up here: https://ukagaka.zichqec.com/guide/what_is_auto_data_convert
 
-Put together by Zichqec, but this is just the default files so can I really lay any claim to it? If you want to check for updates or get a clean version of the files, the repo for it is here: https://github.com/Zichqec/minimum_yaya_template
+Put together by Zichqec, but this is just the default files so can I really lay any claim to it? If you want to check for updates or get a clean version of the files, it's on my website here: https://ukagaka.zichqec.com/template/minimum_yaya_template
 Translations for yaya_base/config.dic provided by Ayakamtka!
 
 
